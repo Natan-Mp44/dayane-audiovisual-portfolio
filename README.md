@@ -1,7 +1,6 @@
 # 🎬 Portfólio Audiovisual - Dayane Luz
 
-![Banner do Projeto](./screenshots/banner.png)
-
+<img width="1861" height="986" alt="image" src="https://github.com/user-attachments/assets/a331193b-7d9f-4950-8c73-4e87c6d3cdc2" />
 
 ## 📌 Sobre o Projeto
 
@@ -55,7 +54,7 @@ mantendo ao mesmo tempo uma apresentação profissional adequada para o mercado 
 
 ## Ferramentas
 
-- Figma (planejamento visual)
+- Visul Studio Code
 - Git
 - GitHub
 - Vercel (deploy)
@@ -89,9 +88,6 @@ Descrição:
 Tela principal do portfólio apresentando a identidade visual da artista, introdução profissional e chamadas para conhecer seus trabalhos.
 
 
-![Home](./screenshots/home.png)
-
-
 
 ---
 
@@ -102,7 +98,8 @@ Descrição:
 Área criada para apresentar a trajetória, formação acadêmica e características profissionais.
 
 
-![Sobre](./screenshots/sobre.png)
+<img width="1855" height="983" alt="image" src="https://github.com/user-attachments/assets/1fa0b8d7-0dce-4d36-a112-9584ac71bc81" />
+
 
 
 
@@ -114,13 +111,6 @@ Descrição:
 
 Galeria responsável por apresentar trabalhos realizados envolvendo vídeos, reels, shorts e produções criativas.
 
-
-![Projetos](./screenshots/projetos.png)
-
-
-
----
-
 ## Galeria de Trabalhos
 
 Descrição:
@@ -128,7 +118,8 @@ Descrição:
 Área visual para destacar produções fotográficas e materiais editados.
 
 
-![Galeria](./screenshots/galeria.png)
+<img width="1857" height="977" alt="image" src="https://github.com/user-attachments/assets/1087788b-997d-423b-baff-7ee996671011" />
+
 
 
 
@@ -139,9 +130,6 @@ Descrição:
 Descrição:
 
 Elementos animados desenvolvidos para tornar a navegação mais dinâmica e criar uma experiência diferenciada.
-
-
-![Animações](./screenshots/animacoes.png)
 
 
 
