@@ -149,12 +149,9 @@ O site foi desenvolvido pensando em diferentes dispositivos:
 
 # 🌐 Deploy
 
-Projeto disponível online:
+🔗 **Site Online:**
 
-🔗 Link do site:
-
-COLOCAR_LINK_VERCEL
-
+https://dayane-audiovisual-portfolio.vercel.app 
 
 ---
 
